@@ -31,8 +31,6 @@ Video: mplayer
 
 For Desktop Terminal without Xorg: 
 
-ironasky@gmail.com 
-
 I think that a complete Terminal Desktop Environment is cool, 
 to this day only GNU Emacs have something like that (though I find Emacs keybindings to be unconventional, and thus offputting for newcomers, I like the ergonomics-mode) 
 Though this guy had put together a complete Terminal Desktop Environment years ago in the Gnome Terminal: 
