@@ -89,4 +89,3 @@ Bluetooth button
 Drive sync of Desktop folders online and for offline use 
 Desktop with files and daily changing wallpaper? 
 
-ironasky@gmail.com 
